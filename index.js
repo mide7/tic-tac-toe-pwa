@@ -18,6 +18,7 @@ const restartButton = document.querySelector("#restart")
 const message = document.querySelector(".message")
 const messageText = document.querySelector("[data-message-text]")
 
+
 startGame()
 
 
